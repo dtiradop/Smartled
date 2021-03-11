@@ -7,3 +7,5 @@ Objetivo: Desarrolllar una página web donde se mostrara los resultados de lumin
 Lenguajes utlizados: PHP, HTML y CSS
 
 Librerias: PHP 7.4
+
+Captura: https://github.com/dtiradop/Smartled/blob/main/Bombillo%20inteligente.png
